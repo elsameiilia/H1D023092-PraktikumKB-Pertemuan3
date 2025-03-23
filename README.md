@@ -1,4 +1,4 @@
-# To-do List
+# To-do List :page_facing_up:
 
 ## Deskripsi
 To-do List adalah sebuah aplikasi berbasis CLI sederhana interaktif yang digunakan untuk melakukan penambahan tugas ke daftar, menghapus tugas dari daftar, melihat daftar tugas, dan mengubah status tugas.
