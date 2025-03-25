@@ -17,4 +17,4 @@ Program dibuat menggunakan bahasa Python dengan struktur data list dan array, me
 1. Clone repository ini.
 2. Pastikan python sudah terinstall pada perangkat Anda.
 3. Install library **colorama** dengan menjalankan perintah `pip install colorama`.
-4. Buka Code Editor dan bukalah folder tempat menyimpan file tadi/clone repository ini. Jalankan perintah `python tugas3.py`
+4. Buka Code Editor dan bukalah folder tempat menyimpan file tadi/clone repository ini. Jalankan perintah `python tugas3.py` pada terminal. 
